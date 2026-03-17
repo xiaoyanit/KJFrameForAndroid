@@ -42,10 +42,10 @@ dependencies {
 ## 使用帮助
 1、这几篇博客也许能帮到你  
     [MVC模块](https://github.com/kymjs/KJFrameForAndroid/wiki/MVCLibrary_cn)   
-    [KJBitmap使用方法](https://www.kymjs.com/code/2015/03/25/01/)   
-    [KJHttp请求的使用](https://www.kymjs.com/code/2015/05/12/01/)   
+    [KJBitmap使用方法](https://kymjs.com/code/2015/03/25/01/)   
+    [KJHttp请求的使用](https://kymjs.com/code/2015/05/12/01/)   
     [数据库模块使用方法](https://github.com/kymjs/KJFrameForAndroid/wiki/DBLibrary)   
-    [KJBitmap与KJHttp的深度用法](https://www.kymjs.com/code/2015/09/24/01/)   
+    [KJBitmap与KJHttp的深度用法](https://kymjs.com/code/2015/09/24/01/)   
 2、更多在实际项目中使用的Demo: [音乐播放器](https://github.com/KJFrame/KJMusic) [爱看博客客户端](https://github.com/KJFrame/KJBlog)    
 3、框架API文档：[http://kjframe.github.io](https://kjframe.github.io/)     
 
